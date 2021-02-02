@@ -1,5 +1,5 @@
 %%  Starts program 
-    function F
+    function FV
     
 %       Removes unneccessary warnings
         warning('off','all');   
