@@ -1,5 +1,5 @@
 %%  Starts program 
-    function F7_ChristopherBingham_JamieSkipperReed_DanielVipond
+    function F
     
 %       Removes unneccessary warnings
         warning('off','all');   
